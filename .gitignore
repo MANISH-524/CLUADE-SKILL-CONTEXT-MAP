@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Binary / compiled skill files (keep only plain-text source)
+*.skill.zip
+*.skill.gz
+
+# Temp / local notes
+notes.md
+scratch.md
+TODO.local.md
+
+# Environment files
+.env
+.env.local
